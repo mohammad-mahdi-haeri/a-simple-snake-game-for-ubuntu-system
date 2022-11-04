@@ -1,1 +1,1 @@
-# a-simple-snake-game-for-ubuntu-system-
+# a-simple-snake-game-for-ubuntu-system
